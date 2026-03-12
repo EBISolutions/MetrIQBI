@@ -19,13 +19,6 @@ No. MetriQ BI is designed so that business users can easily interpret informatio
 The dashboards and reports are visual, intuitive, and easy to use, allowing executives, managers, and operational teams to quickly and effectively analyze information.
 </details>
 
-
-<details>
-<summary>Do I need technical knowledge to use MetriQ BI?</summary>
-No. MetriQ BI is designed so that business users can easily interpret information without requiring advanced technical knowledge.
-The dashboards and reports are visual, intuitive, and easy to use, allowing executives, managers, and operational teams to quickly and effectively analyze information.
-</details>
-
 <details>
 <summary>What is the business model of MetriQ BI?</summary>
 MetriQ BI is offered through a monthly or annual subscription, with plans starting from 10 users.
